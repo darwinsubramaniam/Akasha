@@ -1,4 +1,5 @@
-use crate::network::Network;
+use super::network::Network;
+
 
 #[derive(Debug)]
 pub struct Asset{
